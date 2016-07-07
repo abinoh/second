@@ -3,16 +3,11 @@
  */
 public class saub {
     public static void main(String[] args) {
-        int i = 10;
-        i +=2;
-        System.out.println(i);
-        i -=2;
-        System.out.println(i);
-        i *=2;
-        System.out.println(i);
-        i /=2;
-        System.out.println(i);
-        i %=2;
-        System.out.println(i);
+        int i=1;
+        if (1!=10);
+        System.out.println("You're not one");
+
+
     }
+
 }
