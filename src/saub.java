@@ -3,11 +3,14 @@
  */
 public class saub {
     public static void main(String[] args) {
-        int i=1;
-        if (1!=10);
-        System.out.println("You're not one");
-
-
+        int i=10;
+        if (1!=1) {
+            System.out.println("You're not one");
+        } else if (1==1) {
+            System.out.println("You're one");
+        }else {
+        System.out.println("Nothing");
+        }
     }
 
 }
