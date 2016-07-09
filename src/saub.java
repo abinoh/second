@@ -3,14 +3,13 @@
  */
 public class saub {
     public static void main(String[] args) {
-        int i=10;
-        if (1!=1) {
-            System.out.println("You're not one");
-        } else if (1==1) {
-            System.out.println("You're one");
-        }else {
-        System.out.println("Nothing");
+        double kilo=(100*1.00);
+        int hig=50;
+        if (hig==50){
+            System.out.println("This is an expression");
+            System.out.println(+kilo);
         }
+
     }
 
 }
