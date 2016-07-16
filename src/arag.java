@@ -3,7 +3,7 @@
  */
 public class arag {
     public static void main(String[] args){
-        char[] name={'A','N'};
+        char[] name={'A','B','I','N'};
         String s = new String(name);
         System.out.println(s);
     }
